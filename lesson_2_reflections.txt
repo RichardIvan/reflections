@@ -6,3 +6,13 @@ So that the changes to the fiels can be tracked and commit can be made.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 We have local changes to files there withtout the commit step plus it also tells us what files do need to be commited after changes that has been made to the files. The staging aread keeps track of chenged files.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Because you can track and add files to staging area to which changes has been made and which are actually relevant to the logical change. The important matter is that one logical change may contain changes in several files.
+
+
+How do the diagrams help you visualize the branch structure?
+
+I can see how much ahead or behind certain branches are, and also I can see the reachability of the branches
