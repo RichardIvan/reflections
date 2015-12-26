@@ -17,3 +17,7 @@ Branch is a modifications that are worked on that vary from the production code.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So that we can be making merges that are under control and at the time we want and so that we see the changes as they're made by other engineers.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would be probably using something like google docs. It would be doable. I think the harder part would be keeping track of the changes and experimenting with thing like what branches let us do.
