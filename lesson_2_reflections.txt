@@ -20,3 +20,7 @@ I can see how much ahead or behind certain branches are, and also I can see the 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The code will get combined, reflecting additions and removals of code. The final version should be code with all the relevant changes. The diagram is the show the timeline of the commits on either of the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merges files if two files dont have conflict, of which benefit is that it is fast. Maunual merging makes sure that there is no error in code and the program will run as intended which is a benefit but cons of this is that it takes longer and might need some clearing out of those changes with other people before final merge is commited.
