@@ -13,3 +13,7 @@ Fork is basically cloning a repository on github onto my account. This is remote
 Simple cloning of a repository will clone that repository into the local working directory and changes that are pulled and pushed are usually back onto the cloned repository.
 
 Branch is a modifications that are worked on that vary from the production code. It might be tests of new features or different variation of the project. This branch, or it's own comimts that are made to the version control are independent from each other until merged.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So that we can be making merges that are under control and at the time we want and so that we see the changes as they're made by other engineers.
