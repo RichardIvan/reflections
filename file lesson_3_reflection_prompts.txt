@@ -5,3 +5,11 @@ Most of the time so that the local directory is always up to date.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 So that my commit history is organized and I am not surprised with all the changes that had been made plus the mergin conflicts that might be introduced with such pull.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is basically cloning a repository on github onto my account. This is remote directory from my local working directory. This clone or in another words for does not affect the original repository from which it was cloned untill a pull request is merged.
+
+Simple cloning of a repository will clone that repository into the local working directory and changes that are pulled and pushed are usually back onto the cloned repository.
+
+Branch is a modifications that are worked on that vary from the production code. It might be tests of new features or different variation of the project. This branch, or it's own comimts that are made to the version control are independent from each other until merged.
