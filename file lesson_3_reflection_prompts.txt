@@ -21,3 +21,7 @@ So that we can be making merges that are under control and at the time we want a
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would be probably using something like google docs. It would be doable. I think the harder part would be keeping track of the changes and experimenting with thing like what branches let us do.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I'm making changes that are experimental and want to discuss with others or test separately before commiting to the main branch that is production ready.
